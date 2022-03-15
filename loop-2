@@ -4,6 +4,7 @@ public static void main(String[] args) {
 		  while (index<len) 
 		  {
 		  
-		  System.out.println(array [index]); index = index+1; }
+		  System.out.println(array [index]); index = index+1; 
+		  }
 		  
 }
